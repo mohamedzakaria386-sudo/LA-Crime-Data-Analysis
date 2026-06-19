@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L0S22rIwLribVrZqetb4KhUDAtRF0gaE?usp=sharing)
 
-# 🔍 LA Crime Data Analysis
+# 🔍 Python-LA-Crime-Analysis
 
 ## Overview
 Exploratory Data Analysis (EDA) project on a real-world 
